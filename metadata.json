@@ -1,0 +1,9 @@
+{
+  "name": "Better Chapainawabgonj Helpline",
+  "description": "A modern helpline and complaint management system for Chapainawabgonj District, Bangladesh.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
